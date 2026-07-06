@@ -1,4 +1,4 @@
-# 
+# Código aberto SummarizeX guia. Baixe e instale com arquitetura escalável e binários verificados — rápido, seguro e fácil de usar.
 
 
 
